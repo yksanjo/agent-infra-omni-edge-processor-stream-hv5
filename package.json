@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-omni-edge-processor-stream-hv5",
+  "version": "1.0.0",
+  "description": "Cloud-native scalability solution",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "omni-edge-processor-stream-hv5"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-omni-edge-processor-stream-hv5.git"
+  }
+}
